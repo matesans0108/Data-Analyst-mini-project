@@ -1,14 +1,14 @@
 # Data-Analyst-mini-project
-Project Title: HR Analytics – Predict Employee Attrition
+## Project Title: HR Analytics – Predict Employee Attrition
 
-#Objective: Understand the factors influencing employee resignation and predict future attrition using analytics.
+## Objective: Understand the factors influencing employee resignation and predict future attrition using analytics.
 
-#Tools Used:
+## Tools Used:
 -Python (Pandas, Seaborn, Scikit-learn, SHAP)
 -Power BI (Visualization)
 -Excel/CSV dataset
 
-#Steps Covered:
+## Steps Covered:
 1.Data Cleaning and Preprocessing
 2.Exploratory Data Analysis (EDA)
 3.Model Building (Decision Tree & Logistic Regression)
@@ -17,14 +17,14 @@ Project Title: HR Analytics – Predict Employee Attrition
 6.Power BI Dashboard Creation
 7.Attrition Prevention Recommendations
 
-#Deliverables:
+## Deliverables:
 -HR Attrition Analysis Dashboard.pbix
 -final_combined_report.pdf
 -model_outputs_with_prob.csv
 -model_accuracy_report.pdf
 -attrition_prevention_suggestions.pdf
 
-#Key Results:
+## Key Results:
 -Model Accuracy: ~85%
 -Major Attrition Drivers: Salary, Years at Company, Job Role, Work-Life Balance, Promotion Frequency
 
